@@ -1,3 +1,8 @@
 Cruz Andres
 Bilotta Agustina
 Cortes Abril
+
+a- El color de fondo de testing es blue
+b- El color de fondo de desarrollo es yellow
+c- el color de fondo de main es blue
+d- el favicon que quedo como ultima modificación es el de Beta
