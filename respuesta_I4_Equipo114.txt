@@ -6,3 +6,9 @@ a- El color de fondo de testing es blue
 b- El color de fondo de desarrollo es yellow
 c- el color de fondo de main es blue
 d- el favicon que quedo como ultima modificación es el de Beta
+e- no se podria hacer la modificacion y el push sin antes obtener la ultima version del proyecto.
+f- nos daba error al hacer el push.
+g-pudimos resolverlo haciendo las modificaciones una a la vez, ya que debiamos trabajar sobre la misma rama.
+Alfa realizo el pull, modificaba el archivo y luego el push, y el mismo metodo para los tres integrantes. Realizabamos primero el pull para obtener la ultima version.
+h- Si cada uno hubiera utilizado el git push -f hubiera sobreescrito el historial de commits y el archivo.
+i- Si quisieramos que la rama DESARROLLO tuviera los <p> de cada integrante deberiamos hacer un merge de las ramas.
